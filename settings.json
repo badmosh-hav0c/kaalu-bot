@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AETHERIONYX.aternos.me",
+    "ip": "AETHERIONYX.aternos.me:43632",
     "port": 43632,
     "version": "",
     "try-creative": false
